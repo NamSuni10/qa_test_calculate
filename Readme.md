@@ -1,9 +1,9 @@
-
+Commented on the file Ten Kseniya
 
 пример использования калькулятора
 
 ```
-calculate(10, 2, '/') == 5
+calculate(22, 2, '/') == 11 #Change text
 ```
 ```
 calculate(20, 10, '-') == 10
