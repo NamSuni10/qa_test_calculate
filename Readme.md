@@ -6,7 +6,7 @@ Commented on the file Ten Kseniya
 calculate(22, 2, '/') == 11 #Change text
 ```
 ```
-calculate(20, 10, '-') == 10
+calculate(30, 10, '-') == 20
 ```
 функция принимает на вход 2 числа и тип операции, доступно 4 типа
 ```chatinput
